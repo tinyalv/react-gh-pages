@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tiny.github.io/react-gh-pages/static/css/main.073c9b0a.css",
-    "main.js": "/tiny.github.io/react-gh-pages/static/js/main.c83dcd6f.js",
-    "static/js/787.d69523cc.chunk.js": "/tiny.github.io/react-gh-pages/static/js/787.d69523cc.chunk.js",
-    "static/media/logo.svg": "/tiny.github.io/react-gh-pages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tiny.github.io/react-gh-pages/index.html",
-    "main.073c9b0a.css.map": "/tiny.github.io/react-gh-pages/static/css/main.073c9b0a.css.map",
-    "main.c83dcd6f.js.map": "/tiny.github.io/react-gh-pages/static/js/main.c83dcd6f.js.map",
-    "787.d69523cc.chunk.js.map": "/tiny.github.io/react-gh-pages/static/js/787.d69523cc.chunk.js.map"
+    "main.css": "/tinyalv.github.io/tiny.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/tinyalv.github.io/tiny.github.io/static/js/main.785b038a.js",
+    "static/js/787.d69523cc.chunk.js": "/tinyalv.github.io/tiny.github.io/static/js/787.d69523cc.chunk.js",
+    "static/media/logo.svg": "/tinyalv.github.io/tiny.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/tinyalv.github.io/tiny.github.io/index.html",
+    "main.073c9b0a.css.map": "/tinyalv.github.io/tiny.github.io/static/css/main.073c9b0a.css.map",
+    "main.785b038a.js.map": "/tinyalv.github.io/tiny.github.io/static/js/main.785b038a.js.map",
+    "787.d69523cc.chunk.js.map": "/tinyalv.github.io/tiny.github.io/static/js/787.d69523cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c83dcd6f.js"
+    "static/js/main.785b038a.js"
   ]
 }
